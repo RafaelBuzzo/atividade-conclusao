@@ -1,6 +1,4 @@
-#Layla Santana Mota
-
-# Model View Controller - Design Pattern para PHP
+Model View Controller - Design Pattern para PHP
 
 ## Modelos
 
